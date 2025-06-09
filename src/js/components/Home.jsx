@@ -1,5 +1,5 @@
 import React from "react";
-
+import Cart from "./Cart";
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
 
@@ -8,7 +8,7 @@ const Home = () => {
 	return (
 		<div className="text-center">
             
-
+			<Cart />
 			<h1 className="text-center mt-5">Hello Rigo!</h1>
 			<p>
 				<img src={rigoImage} />

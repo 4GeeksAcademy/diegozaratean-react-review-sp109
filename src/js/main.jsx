@@ -10,9 +10,10 @@ import '../styles/index.css'
 
 // components
 import Home from './components/Home';
+import Cart from './components/Cart';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Home/>
+    <Cart quantity={3} nombre='borja'/>
   </React.StrictMode>,
 )
