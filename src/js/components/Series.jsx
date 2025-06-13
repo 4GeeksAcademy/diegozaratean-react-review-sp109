@@ -28,3 +28,15 @@ const Series = ()=>{
 }
 
 export default Series
+
+// PSEUDOCODIGO
+// DONE: agregar un input
+// DONE: tener trazabildiad del input en react
+// DONE: añadir un elemento a una lista
+// DONE: identificar cuando doy enter en un input
+// identificar caundo hago hover sobre un elemento de una lista
+// elimianr un elemento de una lista
+// DONE: mostrar en react la lista de elementos 
+// DONE: un contador de los elementos de la lista
+// interfaz grafica o dar estilos o ahcer que se vea como nos lo pidieron
+
