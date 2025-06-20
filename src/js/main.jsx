@@ -19,8 +19,9 @@ import Inputsub from './components/Inputsub';
 import Counter from './components/Counter'
 import Getdata from './components/Getdata'
 import Test from './components/Test'
+import Todo from './components/Todo';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Test />
+    <Todo />
   </React.StrictMode>,
 )
