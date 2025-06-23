@@ -20,8 +20,9 @@ import Counter from './components/Counter'
 import Getdata from './components/Getdata'
 import Test from './components/Test'
 import Todo from './components/Todo';
+import Reducer from './components/Reducer';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Todo />
+    <Reducer />
   </React.StrictMode>,
 )
